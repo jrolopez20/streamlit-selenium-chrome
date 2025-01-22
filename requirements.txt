@@ -1,3 +1,7 @@
 streamlit
 seleniumbase
 webdriver-manager
+splinter
+bs4
+pandas
+matplotlib
